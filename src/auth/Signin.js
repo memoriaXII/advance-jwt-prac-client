@@ -11,8 +11,8 @@ import LinkedIn from "./LinkedIn"
 
 const Signin = ({ history }) => {
   const [values, setValues] = useState({
-    email: "",
-    password: "",
+    email: "kaloraatjs@gmail.com",
+    password: "rrrrrr",
     buttonText: "Submit",
   })
 
